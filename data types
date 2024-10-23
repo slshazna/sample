@@ -1,0 +1,5 @@
+1) numeric - int , float,complex
+2) sequence - string , list , tuple
+3) dictionary
+4) set
+5) boolean

@@ -1,0 +1,8 @@
+Arguments are specified after the function name, inside the parentheses.
+
+5 types of arguments:
+Default arguments
+Keyword arguments
+Positional arguments
+Arbitrary positional arguments
+Arbitrary keyword arguments
